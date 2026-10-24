@@ -1,0 +1,10 @@
+[package]
+name = "minimum-formal-verification"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.90"
+description = "A minimal Rust crate with Lean 4 proofs of its extracted implementation"
+license = "MIT"
+publish = false
+
+[dependencies]
